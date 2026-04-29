@@ -88,7 +88,8 @@ git push
 | [CODEBASE_MAP.md](CODEBASE_MAP.md) | 程式碼地圖：目錄結構、「我想改 X 要看哪裡？」速查表 |
 | [ARCHITECTURE.md](ARCHITECTURE.md) | 系統架構：技能結構、Mermaid 圖、設計決策 |
 | [DATA_MODEL.md](DATA_MODEL.md) | 資料模型：SKILL.md 格式、frontmatter 欄位、文件約定 |
-| [API_SURFACE.md](API_SURFACE.md) | API 與介面：21 個技能的完整參考（觸發條件、輸出、副作用）|
+| [API_SURFACE.md](API_SURFACE.md) | API 與介面 Part 1：Planning & Design + Development 技能參考 |
+| [API_SURFACE_part2.md](API_SURFACE_part2.md) | API 與介面 Part 2：Tooling + Writing & Knowledge + Interaction 技能參考 |
 | [DEV_GUIDE.md](DEV_GUIDE.md) | 開發者指南：環境建置、新增技能、貢獻流程 |
 | [DISCOVERY_LOG.md](DISCOVERY_LOG.md) | 探索紀錄：發現、待解問題、技術債 |
 
